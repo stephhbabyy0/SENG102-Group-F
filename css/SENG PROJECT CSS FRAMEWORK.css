@@ -1,0 +1,128 @@
+*{
+ margin: ;
+ padding: ;
+ box-sizing: border-box;
+ overflow: auto; 
+ 
+} 
+
+
+
+body{
+    background-color: white;
+    font: 1em sans-serif;
+    color: #000;
+    letter-spacing: normal;
+    line-height: 1.5px;
+    text-align: justify;
+    margin: 0;
+
+ }
+
+/*styling headings*/
+h1,h2,h3,h4,h5,h6{
+margin: 10px;
+font-weight: 400;  
+font-style: italic;
+ 
+ }
+
+p{
+     font-style: normal;
+     margin: 5px;
+ }
+aside{
+    font-style: oblique;
+ }
+ul,ol,dl{
+margin: 0;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*styling nav bars*/
+.nav1{
+    background-color: aqua; 
+    color: black;
+    height: 75px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    border-radius: 5px;
+
+}
+ul li{
+     display:inline-block;
+     margin: 2%;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+li:hover{
+        background-color: blanchedalmond;
+        
+    
+}
+
+
+
+ol{
+
+}
+ul{
+
+}
+li{
+
+}
+hr .one{
+border-top: 5000px aqua;
+}
+div{
+
+
+}
+h1, h2, h3, h4. h5,h6{
+
+}
+/*fieldset and legends*/
+}
+fieldset{
+    background-color: gray;
+    max-width: 500px;
+    padding: 16px;
+
+}
+/*footers*/
+footer{
+
+}
+form{
+
+}
+table{
+    font: sans-serif;
+}
+
+.logo{
+       float: left; 
+       width: 100px; 
+       height: 70px;
+}
+

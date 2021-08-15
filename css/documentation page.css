@@ -1,0 +1,21 @@
+.boxl{
+    border: 1px solid black;
+    background-color: black;
+    height: 30px;
+}
+
+ul{
+    float: left;
+    color: white;
+
+}
+
+ul li{
+    margin-top: -10px;
+    float: left;
+    position: relative;
+    width: 110px;
+    font-size: 14px;
+    list-style-type: none;
+    font-family: barlow condensed, sans-serif;
+}
