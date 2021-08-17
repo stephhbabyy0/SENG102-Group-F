@@ -1,11 +1,22 @@
-.boxl{
-    border: 1px solid black;
+.top{
+    color: white;
     background-color: black;
-    height: 30px;
+    font: 1em sans-serif;
+    border: black;
+    text-align: initial;
+    text-size-adjust: 50px;
+}
+
+
+.boxl{
+    border: 1px solid transparent;
+    background-color: whitesmoke;
+    height: 50px;
+    
 }
 
 ul{
-    float: left;
+    float: right;
     color: white;
 
 }
@@ -14,8 +25,13 @@ ul li{
     margin-top: -10px;
     float: left;
     position: relative;
-    width: 110px;
+    width: 98px;
     font-size: 14px;
     list-style-type: none;
     font-family: barlow condensed, sans-serif;
 }
+.icons{
+    float: right;
+    align-items: right;
+}
+
