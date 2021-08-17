@@ -7,7 +7,7 @@
 } 
 
 
-
+/*by default*/
 body{
     background-color: white;
     font: 1em sans-serif;
@@ -36,8 +36,7 @@ aside{
  }
 ul,ol,dl{
 margin: 0;
-
-
+font: 1em sans-serif;
 }
 
 
@@ -94,10 +93,9 @@ li{
 hr .one{
 border-top: 5000px aqua;
 }
-div{
 
 
-}
+
 h1, h2, h3, h4. h5,h6{
 
 }
